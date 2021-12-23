@@ -1,7 +1,5 @@
 ### Hi There <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-> To Invinity and Beyond:rocket: - **Buzz Lightyear**
-
 I am Subroto Yudha Harsanto, people call me Yudha, I am a Full-stack developer, and I'm very passionate and dedicated to my work, in building a website with interactive design and friendly design. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-YudhaHarsanto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/wawan-setiawan-84934a206)](https://www.linkedin.com/in/yudha-harsanto-080b36216/)
@@ -20,11 +18,11 @@ I am Subroto Yudha Harsanto, people call me Yudha, I am a Full-stack developer, 
 ![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
+![React.js](https://img.shields.io/badge/-React.js-black?style=flat-square&logo=vue.js)
 
 ## I am currently learning in:
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
-![TailwindCSS](https://img.shields.io/badge/-tailwindcss-black?style=flat-square&logo=tailwind-css)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=wawanneutron&count_private=true&show_icons=true&include_all_commits=true)
 
