@@ -2,11 +2,11 @@
 
 > To Invinity and Beyond:rocket: - **Buzz Lightyear**
 
-I am Subroto Yudha Harsanto, people call me Yudha, I am a Full-stack developer, and I'm very passionate and dedicated to my work, in building a website with interactive design and friendly design.. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
+I am Subroto Yudha Harsanto, people call me Yudha, I am a Full-stack developer, and I'm very passionate and dedicated to my work, in building a website with interactive design and friendly design. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-WawanSetiawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/wawan-setiawan-84934a206)](https://www.linkedin.com/in/wawan-setiawan-84934a206/)
-[![Instagram Badge](https://img.shields.io/badge/-@wawanneutron-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wawanneutron/)](https://www.instagram.com/wawanneutron/)
-[![Gmail Badge](https://img.shields.io/badge/-hellowawansetiawan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellowawansetiawan@gmail.com)](mailto:hellowawansetiawan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-YudhaHarsanto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/wawan-setiawan-84934a206)](https://www.linkedin.com/in/yudha-harsanto-080b36216/)
+[![Instagram Badge](https://img.shields.io/badge/-@yh2bae-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/wawanneutron/)](https://www.instagram.com/yh2bae/)
+[![Gmail Badge](https://img.shields.io/badge/-yudha.harsantoo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hellowawansetiawan@gmail.com)](mailto:yudha.harsantoo@gmail.com)
 
 ## I am have knowledge in:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
