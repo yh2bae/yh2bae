@@ -24,5 +24,4 @@ I am Subroto Yudha Harsanto, people call me Yudha, I am a Full-stack developer, 
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=yh2bae&count_private=true&show_icons=true&include_all_commits=true)
 
